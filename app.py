@@ -239,7 +239,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown(
         '<p style="color:#5a5a8a;font-size:0.7rem;font-family:Space Mono,monospace;">'
-        'Pengolahan Citra · Unpad</p>',
+        'Pengolahan & Analisis Citra Digital · Unpad</p>',
         unsafe_allow_html=True
     )
 
@@ -377,6 +377,6 @@ else:
 
     st.markdown(
         '<p style="text-align:center;color:#3a3a5a;font-family:Space Mono,monospace;'
-        'font-size:0.7rem;padding-top:20px;">Pengolahan Citra · Unpad 2024</p>',
+        'font-size:0.7rem;padding-top:20px;">140810230059 · Siti Nailah Eko Putri Alawiyah</p>',
         unsafe_allow_html=True
     )
