@@ -210,8 +210,7 @@ section[data-testid="stFileUploadDropzone"] {
 st.markdown("""
 <div class="title-box">
     <h1>RGB to Grayscale Converter</h1>
-    <p>Konversi citra warna ke greylevel menggunakan <strong>5 algoritma</strong> berbeda.<br>
-    Implementasi 100% pure Python — tidak menggunakan library image processing eksternal.</p>
+    <p>Konversi citra warna ke greylevel menggunakan <strong>5 algoritma</strong> berbeda.</p>
 </div>
 """, unsafe_allow_html=True)
 
